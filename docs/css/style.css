@@ -118,7 +118,7 @@ header nav{
  /*showcase*/
  #showcase{
    min-height:400px;
-   background: url('../img/showcase2.png') no-repeat 0 -300px;
+   background: url('../img/showcase2-min.png') no-repeat 0 -300px;
    text-align:center;
    color:#ffffff;
  }
